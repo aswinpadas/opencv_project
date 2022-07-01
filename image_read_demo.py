@@ -7,3 +7,4 @@ cv2.waitKey(10000)
 cv2.imwrite('C:/Users/aswin/PycharmProjects/opencv_project/sunflower.png', image)
 cv2.destroyAllWindows()
 
+
